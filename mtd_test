@@ -1,6 +1,0 @@
-from . import mtdclient
-
-key = 
-mtdclient = MTDClient(key)
-
-mtdclient.getStops()
